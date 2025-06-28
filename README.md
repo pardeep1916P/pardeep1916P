@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Charan Chaitanya
+## 👋 Hi, I'm Charan Chaitanya <span style="margin-left: 20px;">![Visitor Count](https://komarev.com/ghpvc/?username=pardeep1916P&style=flat&color=blue)</span>
 
 🎓 Computer Science student at Gudlavalleru Engineering College (4th Year)<br/>
 🌐 Passionate about Web Development, AWS Cloud, and Full-Stack Projects<br/>
@@ -43,11 +43,28 @@
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=pardeep1916P&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
+<div align="center">
+  
+<!-- Top Languages (Compact, takes less space horizontally) -->
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=pardeep1916P&theme=merko&hide_border=false&layout=compact)<br/>
+  
+</div>
 
-![](https://nirzak-streak-stats.vercel.app/?user=pardeep1916P&theme=merko&hide_border=false)<br/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pardeep1916P&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">
+  
+  ![](https://github-readme-stats.vercel.app/api?username=pardeep1916P&theme=merko&hide_border=false&show_icons=true)       ![](https://nirzak-streak-stats.vercel.app/?user=pardeep1916P&theme=merko&hide_border=false)<br/>
+  
+</div>
+<!-- GitHub Stats Card -->
+
+<!-- Contribution Graph (End with a detailed visual graph) -->
+![](https://github-readme-activity-graph.vercel.app/graph?username=pardeep1916P&theme=merko&hide_border=false)
+
+
+
+
+
 
 ---
 
@@ -63,6 +80,5 @@
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=pardeep1916P&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
