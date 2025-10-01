@@ -115,7 +115,15 @@ hobbies: ["Coding", "Problem Solving", "Learning New Technologies"]
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/pardeep1916P/pardeep1916P/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pardeep1916P/pardeep1916P/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pardeep1916P/pardeep1916P/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/pardeep1916P/pardeep1916P/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/pardeep1916P/pardeep1916P/output/ocean.gif" alt="Snake eating contribution graph animation" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
