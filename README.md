@@ -2,7 +2,7 @@
   
 # 👋 Hi, I'm Charan Chaitanya
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7F4&center=true&vCenter=true&width=600&lines=Cloud+Computing+Enthusiast+☁️;DevOps+Engineer+in+Making+🚀;Full+Stack+Developer+💻;Open+Source+Contributor+🌟)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7F4&center=true&vCenter=true&width=600&lines=Cloud+Computing+Enthusiast+☁️;DevOps+Engineer+in+Making+🚀;Open+Source+Contributor+🌟)](https://git.io/typing-svg)
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=pardeep1916P&style=for-the-badge&color=blueviolet)
 [![GitHub followers](https://img.shields.io/github/followers/pardeep1916P?style=for-the-badge&logo=github)](https://github.com/pardeep1916P)
