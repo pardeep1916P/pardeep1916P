@@ -1,5 +1,5 @@
 <div align="center">
-  
+
 # 👋 Hi, I'm Charan Chaitanya
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7F4&center=true&vCenter=true&width=600&lines=Cloud+Computing+Enthusiast+☁️;DevOps+Engineer+in+Making+🚀;Open+Source+Contributor+🌟)](https://git.io/typing-svg)
