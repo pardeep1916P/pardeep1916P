@@ -93,13 +93,17 @@ hobbies: ["Coding", "Problem Solving", "Learning New Technologies"]
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=pardeep1916P&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.vercel.app/?user=pardeep1916P&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=pardeep1916P&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=pardeep1916P&theme=radical&hide_border=true&fire=FFD700&ring=FFA500&currStreakLabel=FFFF00" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pardeep1916P&theme=radical&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=pardeep1916P&theme=radical&hide_border=true&area=true" alt="Contribution Graph" />
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pardeep1916P&theme=radical&hide_border=true&layout=compact&langs_count=8&card_width=400" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=pardeep1916P&repo=DSA_JAVA&theme=radical&hide_border=true&show_owner=true" alt="DSA Java Repo" />
+</div>
+
+<div align="center">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=pardeep1916P&bg_color=141321&color=ff428e&line=a900ff&point=ff428e&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -115,11 +119,7 @@ hobbies: ["Coding", "Problem Solving", "Learning New Technologies"]
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pardeep1916P/pardeep1916P/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pardeep1916P/pardeep1916P/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/pardeep1916P/pardeep1916P/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img src="https://raw.githubusercontent.com/pardeep1916P/pardeep1916P/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
