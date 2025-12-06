@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=200&amp;section=header&amp;text=Charan%20Chaitanya&amp;fontSize=42&amp;fontColor=fff&amp;animation=fadeIn&amp;fontAlignY=28&amp;desc=Cloud%20and%20DevOps%20Enthusiast%20-%20Problem%20Solver%20-%20Tech%20Explorer&amp;descAlignY=51&amp;descSize=16" alt="header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7F4&center=true&vCenter=true&width=600&lines=Cloud+Computing+Enthusiast+☁️;DevOps+Engineer+in+Making+🚀;Open+Source+Contributor+🌟)](https://git.io/typing-svg)
+<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7F4&center=true&vCenter=true&width=600&lines=Cloud+Computing+Enthusiast+☁️;DevOps+Engineer+in+Making+🚀;Open+Source+Contributor+🌟)](https://git.io/typing-svg) -->
 
 <p align="center">
   <a href="https://github.com/pardeep1916P">
