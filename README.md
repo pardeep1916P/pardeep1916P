@@ -94,12 +94,12 @@ hobbies: ["Coding", "Problem Solving", "Learning New Technologies"]
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=pardeep1916P&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=pardeep1916P&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img width="49%" src="https://github-readme-streak-stats.vercel.app/?user=pardeep1916P&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pardeep1916P&theme=radical&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=pardeep1916P&theme=redical&hide_border=true&area=true" alt="Contribution Graph" />
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=pardeep1916P&theme=radical&hide_border=true&area=true" alt="Contribution Graph" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
