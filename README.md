@@ -159,6 +159,6 @@ hobbies: ["💻 Coding", "🧩 Problem Solving", "📖 Learning New Technologies
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=150&amp;section=footer&amp;text=Show%20some%20love%20by%20starring%20the%20repos!&amp;fontSize=20&amp;fontColor=fff&amp;fontAlignY=80" alt="footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=150&amp;section=footer&amp;text=Show%20some%20love❤️%20by%20starring%20the%20repos!&amp;fontSize=20&amp;fontColor=fff&amp;fontAlignY=80" alt="footer"/>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
