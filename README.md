@@ -6,13 +6,13 @@
 
 <p align="center">
   <a href="https://github.com/pardeep1916P">
-    <img src="https://komarev.com/ghpvc/?username=pardeep1916P&style=for-the-badge&color=blueviolet" alt="Profile views"/>
+    <img src="https://komarev.com/ghpvc/?username=pardeep1916P&style=for-the-badge&color=blueviolet&logo=eye&logoColor=white" alt="Profile views"/>
   </a>
   <a href="https://github.com/pardeep1916P?tab=followers">
-    <img src="https://img.shields.io/github/followers/pardeep1916P?style=for-the-badge&logo=github" alt="Followers"/>
+    <img src="https://img.shields.io/github/followers/pardeep1916P?style=for-the-badge&logo=usergroup&logoColor=white&color=22c55e&label=Followers" alt="Followers"/>
   </a>
   <a href="https://github.com/pardeep1916P?tab=repositories">
-    <img src="https://img.shields.io/github/stars/pardeep1916P?style=for-the-badge&logo=github" alt="Stars"/>
+    <img src="https://img.shields.io/github/stars/pardeep1916P?style=for-the-badge&logo=apachespark&logoColor=white&color=0ea5e9&label=Stars" alt="Stars"/>
   </a>
 </p>
 
