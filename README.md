@@ -127,11 +127,76 @@ hobbies: ["💻 Coding", "🧩 Problem Solving", "📖 Learning New Technologies
 
 <!-- ## 🏆 GitHub Trophies
 
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=pardeep1916P&theme=radical) -->
+
+## 💫 What Sets Me Apart
+
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pardeep1916P&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Cloud+%26+DevOps+Enthusiast;AWS+Certified+Solutions+Architect;Learning+Docker+%2B+Kubernetes;Building+with+Terraform;Passionate+About+Automation)](https://git.io/typing-svg)
+
+<br/>
+
+<table align="center">
+<tr>
+<td align="center" width="50%">
+
+### 🎓 Certifications
+<img src="https://img.shields.io/badge/AWS-Solutions_Architect-FF9900?style=flat-square&logo=amazonaws&logoColor=white" height="28"/>
+<br/>
+<a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/411d3d1015704663a0dcbb2e424b3713">
+<img src="https://img.shields.io/badge/🔗_Verify-232F3E?style=flat-square" height="28"/>
+</a>
+
+</td>
+<td align="center" width="50%">
+
+### 🔥 GitHub Streak
+<img src="https://img.shields.io/badge/365+-00D9FF?style=flat-square&logo=github&logoColor=white&label=Days" height="28"/>
+<br/>
+<img src="https://img.shields.io/badge/Consistent_Contributor-181717?style=flat-square&logo=githubactions&logoColor=white" height="28"/>
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### ☁️ Cloud Mastery
+<img src="https://img.shields.io/badge/AWS-Proficient-FF9900?style=flat-square&logo=amazonaws" height="25"/>
+<img src="https://img.shields.io/badge/GCP-Learning-4285F4?style=flat-square&logo=googlecloud" height="25"/>
+
+</td>
+<td align="center">
+
+### 🛠️ DevOps Stack
+<img src="https://img.shields.io/badge/Docker-Expert-0db7ed?style=flat-square&logo=docker" height="25"/>
+<img src="https://img.shields.io/badge/K8s-Learning-326ce5?style=flat-square&logo=kubernetes" height="25"/>
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### 📚 Code Portfolio
+<img src="https://img.shields.io/badge/Java-Main_Language-ED8B00?style=flat-square&logo=openjdk" height="25"/>
+<img src="https://img.shields.io/badge/Python-Scripting-3776AB?style=flat-square&logo=python" height="25"/>
+
+</td>
+<td align="center">
+
+### 🎯 Focus Areas
+<img src="https://img.shields.io/badge/IaC-Terraform-7B42BC?style=flat-square&logo=terraform" height="25"/>
+<img src="https://img.shields.io/badge/CI%2FCD-Jenkins-D24939?style=flat-square&logo=jenkins" height="25"/>
+
+</td>
+</tr>
+</table>
+
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🐍 Contribution Snake
 
