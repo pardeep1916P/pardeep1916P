@@ -201,9 +201,9 @@ hobbies: ["💻 Coding", "🧩 Problem Solving", "📖 Learning New Technologies
 ## 🚀 Space Shooter — Contribution Graph Game
 
 <div align="center">
-  <img src="game.gif" alt="GitHub Space Shooter — Contribution Graph Game" width="700"/>
+  <img src="game.gif" alt="GitHub Space Shooter — Contribution Graph Game" width="1100"/>
   <br/>
-  <sub>🎮 My GitHub contributions transformed into a Space Shooter game!</sub>
+  <!-- <sub>🎮 My GitHub contributions transformed into a Space Shooter game!</sub> -->
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
