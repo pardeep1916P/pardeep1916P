@@ -107,7 +107,7 @@ hobbies: ["💻 Coding", "🧩 Problem Solving", "📖 Learning New Technologies
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=pardeep1916P&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=pardeep1916P&theme=radical&hide_border=false&fire=FFD700&ring=FFD700&currStreakLabel=FFD700" alt="GitHub Streak" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=pardeep1916P&theme=radical&hide_border=false&fire=FFD700&ring=FFD700&currStreakLabel=FFD700" alt="GitHub Streak" />
 </div>
 
 
